@@ -1,0 +1,11 @@
+Description: 	
+Calculate Distance, Time, and Average Split, weight adjusted scores, and predictions using Paul’s Law.  
+Enter in two values from your Distance, Time, Average Split and you can use this App to calculate the third.  Using this information the App will automatically calculate your weight adjusted scores and your predictions using Paul's Law.  Additionally each time you press one of the calculate buttons a record of it is stored in your history.  This is a great feature as it allows you to keep track of weeks worth of workouts and training plans.  The History will record the Date/Time, your Distance, Time, and AvgSplit.  To access your history go to the Calculate Tab, press the menu button, and select History.
+
+
+Weight adjustment uses the following formula from Concept 2:
+Wf = [body weight in lbs / 270] raised to the power .222			
+Corrected time = Wf x actual time (seconds)
+Corrected distance = actual distance / Wf
+
+Paul's Law says that for a rowing athlete with balanced speed and endurance capabilities, for every doubling of distance the 500m split should increase by five seconds.

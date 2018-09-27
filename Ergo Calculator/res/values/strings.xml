@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ErgoCalculatorActivity!</string>
+    <string name="app_name">Rowing Calculator Ergo</string>
+    <string name="weight_prompt">Choose Your Weight</string>
+
+    <string-array name="weight_arrays">
+        <item>Lbs</item>
+        <item>Kg</item>
+    </string-array>
+
+    <string name="worldrecords_prompt">Choose World Record</string>
+
+    <string-array name="worldrecords_arrays">
+        <item>500 m</item>
+        <item>1,000 m</item>
+        <item>2,000 m</item>
+        <item>5,000 m</item>
+        <item>6,000 m</item>
+        <item>10,000 m</item>
+        <item>30 minutes</item>
+        <item>60 minutes</item>
+        <item>Million Meters</item>
+    </string-array>
+
+</resources>

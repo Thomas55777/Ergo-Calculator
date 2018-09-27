@@ -1,0 +1,10 @@
+320 x 480, 
+480 x 800, 
+480 x 854,
+1280 x 720, 
+1280 x 800
+
+
+24 bit PNG or JPEG (no alpha)
+Full bleed, no border in art
+You may upload screenshots in landscape orientation. The thumbnails will appear to be rotated, but the actual images and their orientations will be preserved. 
